@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @SaiManan1
 - 👀 I’m interested in programming
+- 😎 Also likes playing sports
 - 🌱 I’m making SMT COMMUNITY WEB
- 
+- 🇮🇳 My country = India
 
 
 <!---
