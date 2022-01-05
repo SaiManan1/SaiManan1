@@ -3,6 +3,7 @@
 - 😎 Also likes playing sports
 - 🌱 I’m making SMT COMMUNITY WEB
 - 🇮🇳 My country = India
+- https://discord.c99.nl/widget/theme-1/821219776197951508.png
 
 
 <!---
