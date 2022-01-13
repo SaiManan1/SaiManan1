@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SaiManan1
 - 👀 I’m interested in programming
 - 😎 Also likes playing sports
-- 🌱 Op Web making
+- 🌱 I make websites, discord bots, and sometimes games!
 - 🇮🇳 My country = India
 
 
